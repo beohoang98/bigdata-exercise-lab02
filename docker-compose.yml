@@ -1,0 +1,16 @@
+version: "3"
+services:
+  cloudera_vm:
+    container_name: cloudera_vm
+    image: cloudera/quickstart
+    privileged: true
+    tty: true
+    hostname: "quickstart.cloudera"
+    command: /usr/bin/docker-quickstart
+    ports:
+      - "8088:8088"
+      - "8888:8888"
+      - "7180:7180"
+    volumes:
+      - ./dataset/:/app/dataset
+      - ./out/:/app/jar

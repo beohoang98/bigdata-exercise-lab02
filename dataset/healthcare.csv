@@ -1,0 +1,7 @@
+PatientID,Name,DOB,Phone Number,Email_Address,SSN,Gender,Disease,weight
+11111,bbb1,12/10/1950,1.23E+09,bbb1@xxx.com,1.11E+09,M,Diabetes,78
+11112,bbb2,12/10/1984,1.23E+09,bbb2@xxx.com,1.11E+09,F,PCOS,67
+11113,bbb3,712/11/1940,1.23E+09,bbb3@xxx.com,1.11E+09,M,Fever,90
+11114,bbb4,12/12/1950,1.23E+09,bbb4@xxx.com,1.11E+09,F,Cold,88
+11115,bbb5,12/13/1960,1.23E+09,bbb5@xxx.com,1.11E+09,M,Blood Pressure,76
+11116,bbb6,12/14/1970,1.23E+09,bbb6@xxx.com,1.11E+09,F,Malaria,84
