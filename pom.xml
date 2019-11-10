@@ -45,7 +45,7 @@
     </dependencies>
 
     <modules>
-        <!-- <module>WordCount</module> -->
+        <module>CallDataRecord</module>
         <module>MusicTrack</module>
         <module>DeIdentifyData</module>
     </modules>
