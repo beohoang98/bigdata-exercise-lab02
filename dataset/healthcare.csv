@@ -1,4 +1,3 @@
-PatientID,Name,DOB,Phone Number,Email_Address,SSN,Gender,Disease,weight
 11111,bbb1,12/10/1950,1.23E+09,bbb1@xxx.com,1.11E+09,M,Diabetes,78
 11112,bbb2,12/10/1984,1.23E+09,bbb2@xxx.com,1.11E+09,F,PCOS,67
 11113,bbb3,712/11/1940,1.23E+09,bbb3@xxx.com,1.11E+09,M,Fever,90

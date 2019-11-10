@@ -46,7 +46,7 @@
 
     <modules>
         <!-- <module>WordCount</module> -->
-        <!-- <module>WordSizeWordCount</module> -->
+        <module>MusicTrack</module>
         <module>DeIdentifyData</module>
     </modules>
 
